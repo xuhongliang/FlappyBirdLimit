@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwoBirds</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_title">游戏介绍</string>
+    <string name="help_text">&quot;    游戏中玩家必须控制一只小鸟，跨越由各种不同长度水管所组成的障碍（随着跨越水管的个数增加，水管会开始上下移动，而且移动速度会越来越快），而这只鸟其实是根本不会飞的!&quot;</string>
+    <string name="control_title">操作帮助</string>
+    <string name="control">&quot;    两个人一起玩，点击左半个屏幕控制蓝鸟，右半个屏幕控制粉鸟。  玩家每点击一下小鸟就会飞高一点，不点击就会下降，玩家必须控制节奏，拿捏点击屏幕的时间点，让小鸟能在落下的瞬间跳起来，恰好能够通过狭窄的水管缝隙，只要稍一分神，马上就会失败阵亡。（设置里可以打开自动选项，这只鸟会自己飞哦，虽然最终还是会撞死，一般人我不告诉TA！哈哈！）&quot;</string>
+
+</resources>
