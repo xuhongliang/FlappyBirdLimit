@@ -10,7 +10,6 @@ import java.util.HashMap;
 
 import xxx.activity.R;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
@@ -59,7 +58,6 @@ public class Music {
 		initSounds();
 	}
 
-	@SuppressLint("UseSparseArrays")
 	private static void initSounds() {
 		soundPool = new SoundPool(100, AudioManager.STREAM_MUSIC, 1);
 		soundPoolMap = new HashMap<Integer, Integer>();
